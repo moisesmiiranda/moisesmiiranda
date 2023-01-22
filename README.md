@@ -1,4 +1,4 @@
-- 👋 Oi, Meu nome é  Moises Miranda, atualmente estudo Ciência da Computação 9º Período pelo IFCE, campus Tianguá CE. 
+- 👋 Oi, Meu nome é  Moises Miranda, graduado em Ciência da Computação pelo IFCE, campus Tianguá CE. 
 No momento estudo REST API com JAVA, que é minha linguagem de programação preferida. Estou apredendo ainda mas sei que posso ir longe. 
 
 
