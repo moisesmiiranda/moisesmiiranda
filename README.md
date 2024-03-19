@@ -24,9 +24,6 @@ tenho o conhecimento necessário para criar soluções escaláveis e eficientes 
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" align="center" heigth="50" width="60">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" heigth="50" width="60">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" heigth="50" width="60">
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" heigth="50" width="60">
