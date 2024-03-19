@@ -1,6 +1,37 @@
 # Oi, eu sou o Moisés! 
- Bacharel em Ciência da Computação pelo IFCE campus Tianguá CE. Sou um desenvolvedor empenhado no que faço e gosto de estar sempre aprendendo algo novo, seja por meio de cursos, treinamentos ou praticando por mim mesmo. 
- Com experiência em Java EE, Python, SQL, Spring Boot, Hibernate, JPA, Oracle, MySQL e API REST, tenho o conhecimento necessário para criar soluções escaláveis e eficientes para problemas complexos, incluindo microsserviços e soluções RESTful.
+ Bacharel em Ciência da Computação pelo IFCE campus Tianguá CE. Sou um desenvolvedor empenhado no que faço e gosto de estar sempre aprendendo algo novo, seja por meio de cursos, treinamentos ou explorando documentações. 
+tenho o conhecimento necessário para criar soluções escaláveis e eficientes para problemas complexos, incluindo microsserviços e soluções RESTful.
+
+<div id="experiencia">
+    <p><strong>Experiência:</strong></p>
+    <ul>
+        <li>Linguagens:
+            <ul>
+                <li>Java EE</li>
+                <li>Kotlin</li>
+                <li>Python</li>
+                <li>GO</li>
+                <li>T-SQL</li>
+            </ul>
+        </li>
+        <li>AWS Services, frameworks: Spring Boot, Hibernate, JPA</li>
+        <li>Banco de dados:
+            <ul>
+                <li>Oracle</li>
+                <li>MySQL</li>
+                <li>SQL Server</li>
+                <li>DynamoDB</li>
+            </ul>
+        </li>
+        <li>Arquitetura:
+            <ul>
+                <li>RestFull</li>
+                <li>Monilitico</li>
+                <li>microsserviços</li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
 
 <div>
