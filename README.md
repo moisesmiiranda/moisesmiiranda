@@ -19,6 +19,8 @@
 
 ## Linguagens
 <div>
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" heigth="50" width="60">
     <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" align="center" heigth="50" width="60">
