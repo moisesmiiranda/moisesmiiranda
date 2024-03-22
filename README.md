@@ -2,21 +2,6 @@
  Bacharel em Ciência da Computação pelo IFCE campus Tianguá CE. Sou um desenvolvedor empenhado no que faço e gosto de estar sempre aprendendo algo novo, seja por meio de cursos, treinamentos ou explorando documentações. 
 tenho o conhecimento necessário para criar soluções escaláveis e eficientes para problemas complexos, incluindo microsserviços e soluções RESTful.
 
-
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=moisesmiiranda&show_icons=true&theme=radical">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmiiranda&layout=compact">
-</div>
-
-
-## Contato
-<a href="https://www.linkedin.com/in/moisesmiiranda/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
-</a>
-
-
-
 ## Tecnologias
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" align="center" heigth="50" width="60">
@@ -70,4 +55,16 @@ tenho o conhecimento necessário para criar soluções escaláveis e eficientes 
             </ul>
         </li>
     </ul>
+</div>
+
+## Contato
+<a href="https://www.linkedin.com/in/moisesmiiranda/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
+</a>
+
+## Github status
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=moisesmiiranda&show_icons=true&theme=radical">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmiiranda&layout=compact">
 </div>
