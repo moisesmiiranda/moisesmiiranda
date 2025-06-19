@@ -1,7 +1,7 @@
 <h1 align="left">👋 Oi, eu sou o Moisés!</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Backend | Kotlin & Java | Apaixonado por tecnologia</strong>
+  <strong>Desenvolvedor Backend | Java & Kotlin | Apaixonado por tecnologia</strong>
 </p>
 
 <p align="left">
@@ -54,12 +54,18 @@
     /moisesmiiranda
   </a>
 </p>
+<p>
+  <a href="mailto:moisesmiranda1994@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" />
+    moisesmiranda1994@gmail.com
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moisesmiiranda&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmiiranda&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moisesmiiranda&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmiiranda&layout=compact&theme=tokyonight" />
 </div>
