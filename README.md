@@ -1,10 +1,10 @@
-<h1 align="center">👋 Oi, eu sou o Moisés!</h1>
+<h1 align="left">👋 Oi, eu sou o Moisés!</h1>
 
-<p align="center">
+<p align="left">
   <strong>Desenvolvedor Backend | Kotlin & Java | Apaixonado por tecnologia</strong>
 </p>
 
-<p align="center">
+<p align="left">
   Bacharel em Ciência da Computação pelo IFCE (Campus Tianguá - CE).<br>
   Sempre buscando evoluir através de cursos, treinamentos e documentações.<br>
   Tenho experiência na criação de soluções escaláveis, RESTful e arquiteturas com microsserviços.
