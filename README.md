@@ -1,7 +1,7 @@
 <h1 align="left">👋 Oi, eu sou o Moisés!</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Backend | Java & Kotlin | Apaixonado por tecnologia</strong>
+  <strong>Desenvolvedor Backend | Java & Kotlin |</strong>
 </p>
 
 <p align="left">
