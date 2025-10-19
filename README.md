@@ -14,19 +14,12 @@
 
 ## 🚀 Tecnologias
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" />
   <img src="https://img.icons8.com/?size=512&id=33039&format=png" height="50" />
 </div>
@@ -36,11 +29,11 @@
 ## 💼 Experiência
 
 - **Linguagens**:
-  - Java EE, Kotlin, Python, Go, T-SQL
+  - Java EE, Kotlin,
 - **Frameworks**:
   - Spring Boot, Hibernate, JPA
 - **Bancos de Dados**:
-  - Oracle, MySQL, SQL Server, PostgreSQL, DynamoDB
+  - SQL Server, PostgreSQL, DynamoDB
 - **Arquiteturas**:
   - RESTful, Monolítica, Microsserviços
 
@@ -65,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moisesmiiranda&show_icons=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmiiranda&layout=compact&theme=tokyonight" />
 </div>
